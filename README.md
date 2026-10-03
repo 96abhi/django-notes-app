@@ -33,4 +33,7 @@ Install Nginx reverse proxy to make this application available
 
 ![Django Notes App](django-app.png)
 
+![Django Notes App](jenkins-stage.png)
+
+
 
